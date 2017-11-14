@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang = "ru">
+
+
+<html>
+        <meta charset="UTF-8">
+    <head>
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+        <title>Форма опроса</title>
+    </head>
+    
+    <style>
+       body{
+            background: url(bgform.png) no-repeat;
+            background-size: 100%;
+            background-attachment:  scroll;
+        }
+    </style>
+
+    <body>
+    
+        <form name = "Опрос посетителей сайта" method = "post" action = "mailto: max050555@gmail.com" name = "commentform" id = "commentform">
+        
+            <p style = "position: absolute; top: 250px; left: 425px">
+                <small>Имя</small> <br>
+                <input type = "text" name = "author" id = "author" value = "" size = "30">
+            </p>
+               
+            <p style = "position: absolute; top: 295px; left: 425px">
+                <small>E-Mail</small> <br>
+                <input type = "text" name = "email" id = "email" value = "" size = "30">
+            </p>
+               
+            <p style = "position: absolute; top: 340px; left: 425px">
+                <small>Комментарий</small> <br>
+                <textarea name = "comment" id = "comment" cols = "57" rows = "4"></textarea>
+            </p>
+            
+            <p style = "position: absolute; top: 435px; left: 803.5px">
+                <input type = "submit" name = "submit" id = "submit" value = "Готово">
+            </p>
+        
+        </form>
+    
+    </body>
+
+
+</html>
