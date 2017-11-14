@@ -1,0 +1,6 @@
+*
+       body{
+            background: url(bgform.png) no-repeat;
+            background-size: 100%;
+            background-attachment:  scroll;
+        }
