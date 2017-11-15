@@ -1,23 +1,23 @@
 *
         h1 {
             font-family: Arial;
-            color: FFFFE8;
+            color: aliceblue;
             text-align: center;
             font-size: 300%;
         }
         .num {
             font-family: Impact;
-            color: F67300;
+            color: coral;
             text-align: center;
             font-size: 200%;
         }
         p {
             font-family: Tahoma;
             font-size: 400%;
-            color: 04A77A;
+            color: aquamarine;
         }
         p.text{
             font-family: Times New Roman;
             font-size: 250%;
-            color: E8BF05;
+            color: crimson;
         }
