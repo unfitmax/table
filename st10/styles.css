@@ -14,12 +14,12 @@
             margin: 10px;
         }
         .qu {
-           
-           margin: 0 auto;
-           display: block;
-           width: 45%;
-           background-color: darkgrey;
-           border-radius: 15px;
+            display: block;
+            width: 45%;
+            border-radius: 10px;
+            background-color: CCD9CE;
+            height: auto;
+            margin: auto;
         }
         ul {
             margin-bottom: 50px;
