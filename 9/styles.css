@@ -5,20 +5,20 @@
             font-size: 200%;
             margin-top: 10px;
             margin-bottom: 10px;
-            color: F24C27;
+            color: aliceblue;
         }
         .qu {
             display: block;
             width: 55%;
             border-radius: 20px;
-            background-color: 56B9D0;
+            background-color: aliceblue;
             height: auto;
             margin: auto;
         }
         p {
             text-align: center;
             font-family: Calibri;
-            color: FEFEFE;
+            color: darkslategray;
             font-size: 300%;
         }
        ul {
@@ -28,6 +28,6 @@
         }
         li {
             font-family: Calibri;
-            color: FEFEFE;
+            color: darkslategray;
             font-size: 200%;
         }
